@@ -66,7 +66,7 @@ function Hero() {
 
             <div className="hero-profile-image">
               <img
-                src="/images/profile.jpg"
+                src="/images/profile.png"
                 alt="Abiodun Itunuoluwa Alabi"
               />
             </div>
