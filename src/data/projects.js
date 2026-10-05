@@ -18,7 +18,7 @@ const projects = [
     ],
     image: "/images/projects/expense-tracker.png",
     liveUrl: "https://expense-tracker-2-teal.vercel.app",
-    githubUrl: "",
+    githubUrl: "https://github.com/harbeey001/expense-tracker",
     features: [
       "Dashboard for financial activity",
       "Income and expense management",
@@ -45,7 +45,7 @@ const projects = [
     ],
     image: "/images/projects/okegboho-baptist.png",
     liveUrl: "https://okegbohobaptistchurch.vercel.app",
-    githubUrl: "",
+    githubUrl: "https://github.com/harbeey001/okegboho-baptist-church",
     features: [
       "Church information and history",
       "Sermon and media sections",
@@ -72,8 +72,8 @@ const projects = [
       "MongoDB",
     ],
     image: "/images/projects/farmlink.png",
-    liveUrl: "",
-    githubUrl: "",
+    liveUrl: "https://farm-link-z9rt.onrender.com",
+    githubUrl: "https://github.com/harbeey001/farm-link",
     features: [
       "Farmer and buyer experiences",
       "Agricultural product marketplace",

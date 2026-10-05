@@ -54,7 +54,7 @@ technologies: [
 "MongoDB",
 ],
 image: "/images/projects/farmlink.png",
-liveUrl: "",
+liveUrl: "https://farm-link-z9rt.onrender.com",
 },
 ];
 
